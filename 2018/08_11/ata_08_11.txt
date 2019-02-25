@@ -1,0 +1,14 @@
+objetivo
+	apresentação do fritzing
+	apresentação da programação
+
+resultado
+	correção da equação do sensor de temperatura:D
+
+presentes
+	*dallila 
+	*walmor
+	*renato
+	*lucas 
+	*isadora
+	*gabriel
