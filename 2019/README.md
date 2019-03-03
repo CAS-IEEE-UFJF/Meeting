@@ -7,6 +7,7 @@
     * Firebase.
     * Web server http.
     * Github pages.
+    * HTML, CSS e JavaScript.
 
 
 * Construção da CNC.
