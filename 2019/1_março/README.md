@@ -9,6 +9,7 @@
     * Git windows.
     * Github.
     * Github pages.
+    * HTML, CSS e JavaScript.
   * CNC.
     * Apresentação do CAD.
     * Lista com materiais. ex: fonte chaveada, ponte H, motor DC, microcontrolador ...
