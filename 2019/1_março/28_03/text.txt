@@ -1,0 +1,14 @@
+[texto não escrito em pt-bt]
+
+falar sobre github
+
+Apresentar modelo do cad
+	perguntar quem já de fez cad
+	exemplo de como converter energia cinetica rotacional em energia cinetica de translação
+	exemplo potenciometro
+	exemplo com sensor optico
+
+	Estudo sobre sensor optico atual
+	Onde conseguir mais trilhos de imprenssoras
+	
+	Ideia para a proxima reunião
